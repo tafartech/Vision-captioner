@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the capabilities of the PaliGemma model for image understanding tasks. It provides a framework for generating descriptive captions for images, identifying objects within images, and extracting text using optical character recognition (OCR). By leveraging PaliGemma's powerful multimodal understanding, this project showcases how to create comprehensive image descriptions.
+This repos demonstrates the capabilities of the PaliGemma model for image understanding tasks. It provides a framework for generating descriptive captions for images, identifying objects within images, and extracting text using optical character recognition (OCR). By leveraging PaliGemma's powerful multimodal understanding, this project showcases how to create comprehensive image descriptions.
 
 ## Features
 
